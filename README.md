@@ -1,4 +1,4 @@
-Your project focuses on analyzing LioCinema and Jotstar to provide insights into user behavior, content libraries, subscription trends, and revenue for the period January–November 2024. Key areas include:
+This project focuses on analyzing LioCinema and Jotstar to provide insights into user behavior, content libraries, subscription trends, and revenue for the period January–November 2024. Key areas include:
 
 * Total Users & Growth Trends: Compare user counts and growth rates for both platforms.
 
