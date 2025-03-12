@@ -1,1 +1,25 @@
-This revolves around a strategic merger between Lio, a leading telecommunications provider in India, and Jotstar, a prominent streaming platform. The goal is to combine LioCinema’s (Lio's streaming service) extensive subscriber base with Jotstar’s diverse content library to create a dominant OTT (Over-The-Top) platform in India. To ensure the success of this merger, with analyzing the performance and user behavior of both platforms over the past year (January to November 2024). The insights derived from this analysis will guide strategic decisions and optimize content strategies post-merger.
+Your project focuses on analyzing LioCinema and Jotstar to provide insights into user behavior, content libraries, subscription trends, and revenue for the period January–November 2024. Key areas include:
+
+* Total Users & Growth Trends: Compare user counts and growth rates for both platforms.
+
+* Content Library Comparison: Analyze content volume, language, and type differences.
+
+* User Demographics: Study user distribution by age, city tier, and subscription plans.
+
+* Active vs. Inactive Users: Identify active/inactive user percentages and variations.
+
+* Watch Time Analysis: Compare average watch times by city tier and device type.
+
+* Inactivity Correlation: Explore links between inactivity and watch time.
+
+* Downgrade Trends: Compare downgrade rates between platforms.
+
+* Upgrade Patterns: Analyze common upgrade transitions (e.g., Free to Premium).
+
+* Paid Users Distribution: Study paid user percentages across city tiers.
+
+* Revenue Analysis: Calculate total revenue, considering upgrades, downgrades, and churn.
+
+* Free to Paid conversion on each platform
+
+The goal is to provide actionable insights to optimize strategies post-merger and establish Lio-Jotstar as India’s leading OTT platform.
